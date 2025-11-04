@@ -1,0 +1,4 @@
+planets:
+  Earth:
+    radius_km: 6378.0
+    mu_km3s2: 398600.4418
